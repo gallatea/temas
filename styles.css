@@ -1,0 +1,38 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Raleway", sans-serif;
+}
+
+a {
+  color: aqua;
+  word-break: break-all;
+}
+
+body {
+  background: #101112;
+  color: #eee;
+  margin: 40px;
+  max-width: 100vw;
+}
+
+div {
+  margin: 40px 0;
+}
+
+h2 {
+  margin-bottom: 15px;
+}
+
+.src {
+  margin-bottom: 30px;
+}
+
+p {
+  line-height: 24px;
+}
+
+.highlight {
+  color: aqua;
+}
